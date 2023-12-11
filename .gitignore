@@ -1,5 +1,6 @@
 venv
 .vscode
 *.wav
+*.egg-info
 .pytest_cache
 __pycache__
