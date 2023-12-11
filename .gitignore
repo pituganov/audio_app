@@ -1,0 +1,5 @@
+venv
+.vscode
+*.wav
+.pytest_cache
+__pycache__
